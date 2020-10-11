@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\Nachoo\\.virtualenvs\\tweet2-N7ReEGaD\\Scripts\\python.exe"
+	}
 }
